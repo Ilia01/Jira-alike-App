@@ -1,0 +1,14 @@
+{
+  "app\\dashboardWrapper.tsx -> ./components/Navbar": {
+    "id": "app\\dashboardWrapper.tsx -> ./components/Navbar",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app_components_Navbar_index_tsx.js"
+    ]
+  },
+  "app\\dashboardWrapper.tsx -> ./components/Sidebar": {
+    "id": "app\\dashboardWrapper.tsx -> ./components/Sidebar",
+    "files": [
+      "static/chunks/_app-pages-browser_src_app_components_Sidebar_index_tsx.js"
+    ]
+  }
+}

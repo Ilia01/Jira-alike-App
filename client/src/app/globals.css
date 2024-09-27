@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+}
+
+@layer base {
+  html,
+  body,
+  #root,
+  .app {
+    @apply bg-white text-sm dark:bg-black;
+  }
+}
